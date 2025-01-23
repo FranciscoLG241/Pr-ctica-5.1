@@ -39,11 +39,4 @@ agregarAlumno() del curso para que lo añada a su lista.
 
 
 
-2. Generación de código a partir del diagrama. 
-
-a) Crear clases
-
-b) Crear relaciones
-
-c) Crear main (para probar el sistema).
 
