@@ -10,18 +10,18 @@ como parte del curso. La multiplicidad es 1:N, porque un curso puede tener mucho
 b) Elementos de las clases. Tipos y propósito. 
 
 -Clase CURSO:
-  --Atributos:
+  Atributos:
     nombre y codigo son cadenas de texto que identifican el curso.
     estudiantes es una lista que guarda a los estudiantes inscritos.
-  --Métodos:
+  Métodos:
     agregarAlumno(): Añade un estudiante a la lista.
     mostrarEstudiantes(): Muestra los nombres y DNIs de los estudiantes.
 
     
 -Clase ESTUDIANTE:
-  --Atributos:
+  Atributos:
     nombre y dni son cadenas que identifican al estudiante.
-  --Método:
+  Método:
     inscribirse(): Permite que el estudiante se inscriba en un curso.
 
 
